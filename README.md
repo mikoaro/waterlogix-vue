@@ -3,6 +3,10 @@
 ## Project setup
 
 ```
+./start.sh
+
+OR
+
 # yarn
 yarn
 

@@ -1,6 +1,8 @@
 <template>
-  <app-bar />
+  <DashBar />
+  <side-nav />
   <div class="pa-10 pt-5">
+    <h2 class="font-weight-medium mt-10">Water Utility</h2>
     <v-row>
       <v-col cols="12" sm="6">
         <v-card variant="flat" rounded="0" class="bg-grey-darken-3">
@@ -134,6 +136,9 @@
 </template>
 
 <script setup>
-  import AppBar from '@/components/AppBar.vue'
+import DashBar from "@/components/dashboard//DashBar.vue";
+import SideNav from "@/components/dashboard/SideNav.vue";
 import UtilityChart from "@/components/dashboard/UtilityChart.vue";
 </script>
+
+<style></style>

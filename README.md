@@ -1,7 +1,3 @@
-# waterlogix-vue
-Complex Water Utility Example (SCADA) - Vue version
-
-
 # essentials
 
 ## Project setup

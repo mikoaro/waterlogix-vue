@@ -16,10 +16,15 @@ pnpm install
 ### Compiles and hot-reloads for development
 
 ```
+./start.sh
+
+OR
+
 # yarn
-yarn dev
+yarn && yarn dev
 
 # npm
+npm i
 npm run dev
 
 # pnpm
